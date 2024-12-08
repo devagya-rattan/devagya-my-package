@@ -1,0 +1,14 @@
+{
+  "name": "devagya-my-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0",
+    "build": "echo 'Building package...' && exit 0",
+    "lint": "echo 'Linting...' && exit 0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "files": ["index.js"]
+}
